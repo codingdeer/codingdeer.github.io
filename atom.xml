@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://codingdeer.github.io</id>
+    <title>Codingdeer</title>
+    <updated>2023-10-19T02:24:25.342Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://codingdeer.github.io"/>
+    <link rel="self" href="https://codingdeer.github.io/atom.xml"/>
+    <subtitle>树深时见鹿，溪午不闻钟。</subtitle>
+    <logo>https://codingdeer.github.io/images/avatar.png</logo>
+    <icon>https://codingdeer.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Codingdeer</rights>
+</feed>
